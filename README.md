@@ -6,12 +6,6 @@
 
 Ссылка на репозиторий LightHouse: https://github.com/VKCOM/lighthouse
 
-### Ответ
-
-Инфрастуктура разворачивалась с помощью Terraform 
-[Terraform](./terraform)
-
-
 ## Основная часть
 
 1. Допишите playbook: нужно сделать ещё один play, который устанавливает и настраивает lighthouse.
